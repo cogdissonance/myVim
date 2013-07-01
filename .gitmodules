@@ -13,3 +13,9 @@
 [submodule "bundle/SingleCompile"]
 	path = bundle/SingleCompile
 	url = git://github.com/xuhdev/SingleCompile.git
+[submodule "bundle/gist-vim"]
+	path = bundle/gist-vim
+	url = git://github.com/mattn/gist-vim
+[submodule "bundle/webapi-vim"]
+	path = bundle/webapi-vim
+	url = git://github.com/mattn/webapi-vim

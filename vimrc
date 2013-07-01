@@ -12,6 +12,8 @@ colorscheme wombat256
 "Start first vim call with NERDTRee
 autocmd VimEnter * NERDTree
 autocmd VimEnter * wincmd p
+let g:NERDTreeWinSize=21
+
 
 set scrolloff=3
 set tabstop=4
@@ -19,6 +21,19 @@ set shiftwidth=4
 
 "SingleCompile Key
 nmap <F10> :SCCompileRun<cr>
+
+"Window Navigation with Alt+Arrow
+nmap <silent> <S-I> :wincmd k<CR>
+nmap <silent> <S-K> :wincmd j<CR>
+nmap <silent> <S-J> :wincmd h<CR>
+nmap <silent> <S-L> :wincmd l<CR>
+
+" resize horzontal split window
+nmap <C-I> <C-W>-<C-W>-
+nmap <C-K> <C-W>+<C-W>+
+" resize vertical split window
+nmap <C-L> <C-W>><C-W>>
+nmap <C-J> <C-W><<C-W><
 
 
 "############################################
@@ -41,8 +56,8 @@ let g:ycm_autoclose_preview_window_after_insertion = 1
 " let g:UltiSnipsJumpForwardTrigger = '<c-l>'
 " let g:UltiSnipsJumpBackwardTrigger = '<c-p>'
 " let g:UltiSnipsListSnippets = '<c-m>'
-" let g:UltiSnipsExpandTrigger = "<tab>"
-" let g:UltiSnipsJumpForwardTrigger = "<tab>"
+let g:UltiSnipsExpandTrigger = "<tab>"
+let g:UltiSnipsJumpForwardTrigger = "<tab>"
 
 function! g:UltiSnips_Complete()
    
@@ -88,4 +103,10 @@ function! NERDTreeQuit()
 	endif
 endfunction
 autocmd WinEnter * call NERDTreeQuit()
+
+
+
+"JavaImp.vim settings
+"let g:JavaImpPaths="/home/dissoance/workspace/java/current,/home/dissonance/workspace/java/,/home/dissonance/workspace/java/.settings/"
+
 
