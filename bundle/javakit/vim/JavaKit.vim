@@ -6,7 +6,7 @@ let JavakitSourced = "true"
 
 " This value must be set to point to the directory where you store(unzip) the
 " srcipt files.
-let g:VIMMACROSPATH = ""
+let g:VIMMACROSPATH = "/home/dissonance/.vim/bundle/javakit"
 
 exe "so " . g:VIMMACROSPATH . "Javac.vim"
 exe "so " . g:VIMMACROSPATH . "JavaDebug.vim"
