@@ -25,3 +25,6 @@
 [submodule "bundle/vim-debug"]
 	path = bundle/vim-debug
 	url = git://github.com/jaredly/vim-debug
+[submodule "bundle/yavdb"]
+	path = bundle/yavdb
+	url = git://github.com/vim-scripts/yavdb
