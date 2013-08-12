@@ -7,20 +7,38 @@ set number
 filetype on
 filetype plugin indent on
 
+filetype plugin on
+set nocp
+autocmd FileType python set omnifunc=pythoncomplete#Complete
+autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+autocmd FileType css set omnifunc=csscomplete#CompleteCSS
+autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
+autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+autocmd FileType c set omnifunc=ccomplete#CompleteCpp
+au BufNewFile,BufRead,BufEnter *.cpp,*.hpp set omnifunc=omni#cpp#complete#Main
+
+set tags+=~/.vim/tags/cpp
+
 colorscheme wombat256
 
 "Start first vim call with NERDTRee
 autocmd VimEnter * NERDTree
 autocmd VimEnter * wincmd p
-let g:NERDTreeWinSize=21
+let g:NERDTreeWinSize=22
 
+let NERDTreeIgnore = ['\.pyc$', '\.class$', '\.git$']
 
 set scrolloff=3
 set tabstop=4
 set shiftwidth=4
 
+
 "SingleCompile Key
 nmap <F10> :SCCompileRun<cr>
+
+"TagbarToggle key
+nmap <F11> :TagbarToggle<CR>
 
 "Window Navigation with Alt+Arrow
 nmap <silent> <S-I> :wincmd k<CR>
@@ -36,17 +54,22 @@ nmap <C-L> <C-W>><C-W>>
 nmap <C-J> <C-W><<C-W><
 
 
-"############################################
-"###########    Syntastic setup   ###########
-"############################################
+"Syntastic setup
 let g:syntastic_check_on_open = 1
+
+"Tagbar setup
+let g:tagbar_width = 26
+
+"Enable help or preview window to show at the top of screen
+set completeopt+=preview
+
 
 "############################################
 "##############    YCM setup   ##############
 "############################################
-let g:ycm_filepath_completion_use_working_dir = 1
-let g:ycm_register_as_syntastic_checker = 1
 let g:ycm_autoclose_preview_window_after_insertion = 1
+let g:ycm_collect_identifiers_from_tag_files = 1
+let g:ycm_global_ycm_extra_conf = '~/.vim/tools/cpp/.ycm_extra_conf.py'
 
 "############################################
 "############ UltiSnips setup ###############
@@ -105,8 +128,5 @@ endfunction
 autocmd WinEnter * call NERDTreeQuit()
 
 
-
-"JavaImp.vim settings
-"let g:JavaImpPaths="/home/dissoance/workspace/java/current,/home/dissonance/workspace/java/,/home/dissonance/workspace/java/.settings/"
 
 
