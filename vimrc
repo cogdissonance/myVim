@@ -8,17 +8,17 @@ filetype on
 filetype plugin indent on
 
 filetype plugin on
-set nocp
-autocmd FileType python set omnifunc=pythoncomplete#Complete
-autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
-autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
-autocmd FileType css set omnifunc=csscomplete#CompleteCSS
-autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
-autocmd FileType php set omnifunc=phpcomplete#CompletePHP
-autocmd FileType c set omnifunc=ccomplete#CompleteCpp
-au BufNewFile,BufRead,BufEnter *.cpp,*.hpp set omnifunc=omni#cpp#complete#Main
+"set nocp
+"autocmd FileType python set omnifunc=pythoncomplete#Complete
+"autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+"autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+"autocmd FileType css set omnifunc=csscomplete#CompleteCSS
+"autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
+"autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+"autocmd FileType c set omnifunc=ccomplete#CompleteCpp
+"au BufNewFile,BufRead,BufEnter *.cpp,*.hpp set omnifunc=omni#cpp#complete#Main
 
-set tags+=~/.vim/tags/cpp
+"autocmd FileType cpp set tags=~/.vim/tags/cpp
 
 colorscheme wombat256
 
@@ -53,6 +53,8 @@ nmap <C-K> <C-W>+<C-W>+
 nmap <C-L> <C-W>><C-W>>
 nmap <C-J> <C-W><<C-W><
 
+"NERDTree setup
+let g:NERDTreeDirArrows = 0
 
 "Syntastic setup
 let g:syntastic_check_on_open = 1
@@ -67,7 +69,6 @@ set completeopt+=preview
 "############################################
 "##############    YCM setup   ##############
 "############################################
-let g:ycm_autoclose_preview_window_after_insertion = 1
 let g:ycm_collect_identifiers_from_tag_files = 1
 let g:ycm_global_ycm_extra_conf = '~/.vim/tools/cpp/.ycm_extra_conf.py'
 
