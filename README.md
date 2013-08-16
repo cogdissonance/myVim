@@ -1,8 +1,7 @@
 myVim
 =====
 
-My entire vim in all it's glory
-
+My entire vim
 
 Installation:
 
