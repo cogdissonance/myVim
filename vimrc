@@ -1,13 +1,16 @@
 
 execute pathogen#infect()
 
+set nocompatible
+set backspace=2
+
 syntax on
 set number
 
 filetype on
 filetype plugin indent on
-
 filetype plugin on
+
 "set nocp
 "autocmd FileType python set omnifunc=pythoncomplete#Complete
 "autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
@@ -18,7 +21,12 @@ filetype plugin on
 "autocmd FileType c set omnifunc=ccomplete#CompleteCpp
 "au BufNewFile,BufRead,BufEnter *.cpp,*.hpp set omnifunc=omni#cpp#complete#Main
 
-"autocmd FileType cpp set tags=~/.vim/tags/cpp
+autocmd FileType cpp set tags=~/.vim/tags/cpp
+autocmd FileType cpp set tags=~/.vim/tags/qt
+autocmd FileType cpp set tags=~/.vim/tags/qt5
+autocmd FileType cpp set tags=~/.vim/tags/x86_cpp
+autocmd FileType cpp set tags=~/.vim/tags/gl
+
 
 colorscheme wombat256
 
@@ -71,6 +79,7 @@ set completeopt+=preview
 "############################################
 let g:ycm_collect_identifiers_from_tag_files = 1
 let g:ycm_global_ycm_extra_conf = '~/.vim/tools/cpp/.ycm_extra_conf.py'
+let g:ycm_filetype_specific_completion_to_disable = {'cpp' : 1}
 
 "############################################
 "############ UltiSnips setup ###############
@@ -80,6 +89,7 @@ let g:ycm_global_ycm_extra_conf = '~/.vim/tools/cpp/.ycm_extra_conf.py'
 " let g:UltiSnipsJumpForwardTrigger = '<c-l>'
 " let g:UltiSnipsJumpBackwardTrigger = '<c-p>'
 " let g:UltiSnipsListSnippets = '<c-m>'
+
 let g:UltiSnipsExpandTrigger = "<tab>"
 let g:UltiSnipsJumpForwardTrigger = "<tab>"
 
