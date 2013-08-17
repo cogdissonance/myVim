@@ -1,0 +1,679 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+LT_OBJDIR	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1105;"	d	language:C++
+STDC_HEADERS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1144;"	d	language:C++
+_Atomic_word	/usr/include/x86_64-linux-gnu/c++/4.7/bits/atomic_word.h	/^typedef int _Atomic_word;$/;"	t	language:C++
+_CXXABI_TWEAKS_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	31;"	d	language:C++
+_GLIBCXX_ATOMIC_BUILTINS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1150;"	d	language:C++
+_GLIBCXX_ATOMIC_WORD_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/atomic_word.h	30;"	d	language:C++
+_GLIBCXX_BASIC_FILE_STDIO_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/basic_file.h	36;"	d	language:C++
+_GLIBCXX_BEGIN_EXTERN_C	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	402;"	d	language:C++
+_GLIBCXX_BEGIN_NAMESPACE_ALGO	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	298;"	d	language:C++
+_GLIBCXX_BEGIN_NAMESPACE_ALGO	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	313;"	d	language:C++
+_GLIBCXX_BEGIN_NAMESPACE_CONTAINER	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	288;"	d	language:C++
+_GLIBCXX_BEGIN_NAMESPACE_CONTAINER	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	321;"	d	language:C++
+_GLIBCXX_BEGIN_NAMESPACE_LDBL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	339;"	d	language:C++
+_GLIBCXX_BEGIN_NAMESPACE_VERSION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	221;"	d	language:C++
+_GLIBCXX_CONST	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	48;"	d	language:C++
+_GLIBCXX_CONSTEXPR	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	93;"	d	language:C++
+_GLIBCXX_CONSTEXPR	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	96;"	d	language:C++
+_GLIBCXX_CPU_DEFINES	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cpu_defines.h	31;"	d	language:C++
+_GLIBCXX_CXA_VEC_CTOR_RETURN	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	50;"	d	language:C++
+_GLIBCXX_CXX_ALLOCATOR_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++allocator.h	31;"	d	language:C++
+_GLIBCXX_CXX_CONFIG_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	32;"	d	language:C++
+_GLIBCXX_CXX_IO_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++io.h	34;"	d	language:C++
+_GLIBCXX_CXX_LOCALE_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++locale.h	38;"	d	language:C++
+_GLIBCXX_C_LOCALE_GNU	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++locale.h	44;"	d	language:C++
+_GLIBCXX_DEPRECATED	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	83;"	d	language:C++
+_GLIBCXX_DEPRECATED	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	85;"	d	language:C++
+_GLIBCXX_END_EXTERN_C	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	403;"	d	language:C++
+_GLIBCXX_END_NAMESPACE_ALGO	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	300;"	d	language:C++
+_GLIBCXX_END_NAMESPACE_ALGO	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	317;"	d	language:C++
+_GLIBCXX_END_NAMESPACE_CONTAINER	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	290;"	d	language:C++
+_GLIBCXX_END_NAMESPACE_CONTAINER	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	325;"	d	language:C++
+_GLIBCXX_END_NAMESPACE_LDBL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	340;"	d	language:C++
+_GLIBCXX_END_NAMESPACE_VERSION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	222;"	d	language:C++
+_GLIBCXX_ERROR_CONSTANTS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/error_constants.h	31;"	d	language:C++
+_GLIBCXX_EXTERN_TEMPLATE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	128;"	d	language:C++
+_GLIBCXX_EXTERN_TEMPLATE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	292;"	d	language:C++
+_GLIBCXX_EXTERN_TEMPLATE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	293;"	d	language:C++
+_GLIBCXX_FAST_MATH	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	438;"	d	language:C++
+_GLIBCXX_FULLY_DYNAMIC_STRING	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1157;"	d	language:C++
+_GLIBCXX_GCC_GTHR_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr.h	28;"	d	language:C++
+_GLIBCXX_GCC_GTHR_POSIX_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	28;"	d	language:C++
+_GLIBCXX_GCC_GTHR_POSIX_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	28;"	d	language:C++
+_GLIBCXX_GCC_GTHR_SINGLE_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	28;"	d	language:C++
+_GLIBCXX_GTHREAD_USE_WEAK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr.h	142;"	d	language:C++
+_GLIBCXX_GTHREAD_USE_WEAK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr.h	143;"	d	language:C++
+_GLIBCXX_GTHREAD_USE_WEAK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr.h	147;"	d	language:C++
+_GLIBCXX_GUARD_BIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	43;"	d	language:C++
+_GLIBCXX_GUARD_PENDING_BIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	44;"	d	language:C++
+_GLIBCXX_GUARD_SET	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	42;"	d	language:C++
+_GLIBCXX_GUARD_TEST	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	41;"	d	language:C++
+_GLIBCXX_GUARD_WAITING_BIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	45;"	d	language:C++
+_GLIBCXX_HAS_GTHREADS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1160;"	d	language:C++
+_GLIBCXX_HAVE_ACOSF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1320;"	d	language:C++
+_GLIBCXX_HAVE_ACOSF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	458;"	d	language:C++
+_GLIBCXX_HAVE_ACOSL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1325;"	d	language:C++
+_GLIBCXX_HAVE_ACOSL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	461;"	d	language:C++
+_GLIBCXX_HAVE_ASINF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1330;"	d	language:C++
+_GLIBCXX_HAVE_ASINF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	464;"	d	language:C++
+_GLIBCXX_HAVE_ASINL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1335;"	d	language:C++
+_GLIBCXX_HAVE_ASINL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	467;"	d	language:C++
+_GLIBCXX_HAVE_AS_SYMVER_DIRECTIVE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	470;"	d	language:C++
+_GLIBCXX_HAVE_ATAN2F	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1340;"	d	language:C++
+_GLIBCXX_HAVE_ATAN2F	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	473;"	d	language:C++
+_GLIBCXX_HAVE_ATAN2L	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1345;"	d	language:C++
+_GLIBCXX_HAVE_ATAN2L	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	476;"	d	language:C++
+_GLIBCXX_HAVE_ATANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1350;"	d	language:C++
+_GLIBCXX_HAVE_ATANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	479;"	d	language:C++
+_GLIBCXX_HAVE_ATANL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1355;"	d	language:C++
+_GLIBCXX_HAVE_ATANL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	482;"	d	language:C++
+_GLIBCXX_HAVE_ATTRIBUTE_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	65;"	d	language:C++
+_GLIBCXX_HAVE_CEILF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1360;"	d	language:C++
+_GLIBCXX_HAVE_CEILF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	488;"	d	language:C++
+_GLIBCXX_HAVE_CEILL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1365;"	d	language:C++
+_GLIBCXX_HAVE_CEILL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	491;"	d	language:C++
+_GLIBCXX_HAVE_COMPLEX_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	494;"	d	language:C++
+_GLIBCXX_HAVE_COSF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1370;"	d	language:C++
+_GLIBCXX_HAVE_COSF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	497;"	d	language:C++
+_GLIBCXX_HAVE_COSHF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1375;"	d	language:C++
+_GLIBCXX_HAVE_COSHF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	500;"	d	language:C++
+_GLIBCXX_HAVE_COSHL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1380;"	d	language:C++
+_GLIBCXX_HAVE_COSHL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	503;"	d	language:C++
+_GLIBCXX_HAVE_COSL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1385;"	d	language:C++
+_GLIBCXX_HAVE_COSL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	506;"	d	language:C++
+_GLIBCXX_HAVE_DLFCN_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	509;"	d	language:C++
+_GLIBCXX_HAVE_EBADMSG	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	512;"	d	language:C++
+_GLIBCXX_HAVE_ECANCELED	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	515;"	d	language:C++
+_GLIBCXX_HAVE_ECHILD	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	518;"	d	language:C++
+_GLIBCXX_HAVE_EIDRM	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	521;"	d	language:C++
+_GLIBCXX_HAVE_ENDIAN_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	524;"	d	language:C++
+_GLIBCXX_HAVE_ENODATA	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	527;"	d	language:C++
+_GLIBCXX_HAVE_ENOLINK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	530;"	d	language:C++
+_GLIBCXX_HAVE_ENOSPC	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	533;"	d	language:C++
+_GLIBCXX_HAVE_ENOSR	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	536;"	d	language:C++
+_GLIBCXX_HAVE_ENOSTR	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	539;"	d	language:C++
+_GLIBCXX_HAVE_ENOTRECOVERABLE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	542;"	d	language:C++
+_GLIBCXX_HAVE_ENOTSUP	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	545;"	d	language:C++
+_GLIBCXX_HAVE_EOVERFLOW	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	548;"	d	language:C++
+_GLIBCXX_HAVE_EOWNERDEAD	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	551;"	d	language:C++
+_GLIBCXX_HAVE_EPERM	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	554;"	d	language:C++
+_GLIBCXX_HAVE_EPROTO	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	557;"	d	language:C++
+_GLIBCXX_HAVE_ETIME	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	560;"	d	language:C++
+_GLIBCXX_HAVE_ETIMEDOUT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	563;"	d	language:C++
+_GLIBCXX_HAVE_ETXTBSY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	566;"	d	language:C++
+_GLIBCXX_HAVE_EWOULDBLOCK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	569;"	d	language:C++
+_GLIBCXX_HAVE_EXECINFO_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	572;"	d	language:C++
+_GLIBCXX_HAVE_EXPF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1390;"	d	language:C++
+_GLIBCXX_HAVE_EXPF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	575;"	d	language:C++
+_GLIBCXX_HAVE_EXPL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1395;"	d	language:C++
+_GLIBCXX_HAVE_EXPL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	578;"	d	language:C++
+_GLIBCXX_HAVE_FABSF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1400;"	d	language:C++
+_GLIBCXX_HAVE_FABSF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	581;"	d	language:C++
+_GLIBCXX_HAVE_FABSL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1405;"	d	language:C++
+_GLIBCXX_HAVE_FABSL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	584;"	d	language:C++
+_GLIBCXX_HAVE_FENV_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	587;"	d	language:C++
+_GLIBCXX_HAVE_FINITE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1410;"	d	language:C++
+_GLIBCXX_HAVE_FINITE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	590;"	d	language:C++
+_GLIBCXX_HAVE_FINITEF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1415;"	d	language:C++
+_GLIBCXX_HAVE_FINITEF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	593;"	d	language:C++
+_GLIBCXX_HAVE_FINITEL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1420;"	d	language:C++
+_GLIBCXX_HAVE_FINITEL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	596;"	d	language:C++
+_GLIBCXX_HAVE_FLOAT_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	599;"	d	language:C++
+_GLIBCXX_HAVE_FLOORF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1425;"	d	language:C++
+_GLIBCXX_HAVE_FLOORF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	602;"	d	language:C++
+_GLIBCXX_HAVE_FLOORL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1430;"	d	language:C++
+_GLIBCXX_HAVE_FLOORL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	605;"	d	language:C++
+_GLIBCXX_HAVE_FMODF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1435;"	d	language:C++
+_GLIBCXX_HAVE_FMODF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	608;"	d	language:C++
+_GLIBCXX_HAVE_FMODL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1440;"	d	language:C++
+_GLIBCXX_HAVE_FMODL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	611;"	d	language:C++
+_GLIBCXX_HAVE_FPCLASS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1445;"	d	language:C++
+_GLIBCXX_HAVE_FREXPF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1450;"	d	language:C++
+_GLIBCXX_HAVE_FREXPF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	620;"	d	language:C++
+_GLIBCXX_HAVE_FREXPL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1455;"	d	language:C++
+_GLIBCXX_HAVE_FREXPL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	623;"	d	language:C++
+_GLIBCXX_HAVE_GETIPINFO	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	626;"	d	language:C++
+_GLIBCXX_HAVE_GETS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	629;"	d	language:C++
+_GLIBCXX_HAVE_GETS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/os_defines.h	46;"	d	language:C++
+_GLIBCXX_HAVE_HYPOT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1460;"	d	language:C++
+_GLIBCXX_HAVE_HYPOT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	632;"	d	language:C++
+_GLIBCXX_HAVE_HYPOTF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1465;"	d	language:C++
+_GLIBCXX_HAVE_HYPOTF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	635;"	d	language:C++
+_GLIBCXX_HAVE_HYPOTL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1470;"	d	language:C++
+_GLIBCXX_HAVE_HYPOTL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	638;"	d	language:C++
+_GLIBCXX_HAVE_ICONV	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	641;"	d	language:C++
+_GLIBCXX_HAVE_INT64_T	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	647;"	d	language:C++
+_GLIBCXX_HAVE_INT64_T_LONG	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	650;"	d	language:C++
+_GLIBCXX_HAVE_INTTYPES_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	656;"	d	language:C++
+_GLIBCXX_HAVE_ISINF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1475;"	d	language:C++
+_GLIBCXX_HAVE_ISINF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	659;"	d	language:C++
+_GLIBCXX_HAVE_ISINFF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1480;"	d	language:C++
+_GLIBCXX_HAVE_ISINFF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	662;"	d	language:C++
+_GLIBCXX_HAVE_ISINFL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1485;"	d	language:C++
+_GLIBCXX_HAVE_ISINFL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	665;"	d	language:C++
+_GLIBCXX_HAVE_ISNAN	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1490;"	d	language:C++
+_GLIBCXX_HAVE_ISNAN	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	668;"	d	language:C++
+_GLIBCXX_HAVE_ISNANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1495;"	d	language:C++
+_GLIBCXX_HAVE_ISNANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	671;"	d	language:C++
+_GLIBCXX_HAVE_ISNANL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1500;"	d	language:C++
+_GLIBCXX_HAVE_ISNANL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	674;"	d	language:C++
+_GLIBCXX_HAVE_ISWBLANK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	677;"	d	language:C++
+_GLIBCXX_HAVE_LC_MESSAGES	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	680;"	d	language:C++
+_GLIBCXX_HAVE_LDEXPF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1505;"	d	language:C++
+_GLIBCXX_HAVE_LDEXPF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	683;"	d	language:C++
+_GLIBCXX_HAVE_LDEXPL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1510;"	d	language:C++
+_GLIBCXX_HAVE_LDEXPL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	686;"	d	language:C++
+_GLIBCXX_HAVE_LIBINTL_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	689;"	d	language:C++
+_GLIBCXX_HAVE_LIMIT_AS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	692;"	d	language:C++
+_GLIBCXX_HAVE_LIMIT_DATA	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	695;"	d	language:C++
+_GLIBCXX_HAVE_LIMIT_FSIZE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	698;"	d	language:C++
+_GLIBCXX_HAVE_LIMIT_RSS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	701;"	d	language:C++
+_GLIBCXX_HAVE_LIMIT_VMEM	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	704;"	d	language:C++
+_GLIBCXX_HAVE_LINUX_FUTEX	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	707;"	d	language:C++
+_GLIBCXX_HAVE_LOCALE_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	710;"	d	language:C++
+_GLIBCXX_HAVE_LOG10F	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1515;"	d	language:C++
+_GLIBCXX_HAVE_LOG10F	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	713;"	d	language:C++
+_GLIBCXX_HAVE_LOG10L	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1520;"	d	language:C++
+_GLIBCXX_HAVE_LOG10L	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	716;"	d	language:C++
+_GLIBCXX_HAVE_LOGF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1525;"	d	language:C++
+_GLIBCXX_HAVE_LOGF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	719;"	d	language:C++
+_GLIBCXX_HAVE_LOGL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1530;"	d	language:C++
+_GLIBCXX_HAVE_LOGL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	722;"	d	language:C++
+_GLIBCXX_HAVE_MBSTATE_T	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	731;"	d	language:C++
+_GLIBCXX_HAVE_MEMORY_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	734;"	d	language:C++
+_GLIBCXX_HAVE_MODF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1535;"	d	language:C++
+_GLIBCXX_HAVE_MODF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	737;"	d	language:C++
+_GLIBCXX_HAVE_MODFF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1540;"	d	language:C++
+_GLIBCXX_HAVE_MODFF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	740;"	d	language:C++
+_GLIBCXX_HAVE_MODFL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1545;"	d	language:C++
+_GLIBCXX_HAVE_MODFL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	743;"	d	language:C++
+_GLIBCXX_HAVE_POLL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	749;"	d	language:C++
+_GLIBCXX_HAVE_POWF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1550;"	d	language:C++
+_GLIBCXX_HAVE_POWF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	752;"	d	language:C++
+_GLIBCXX_HAVE_POWL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1555;"	d	language:C++
+_GLIBCXX_HAVE_POWL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	755;"	d	language:C++
+_GLIBCXX_HAVE_QFPCLASS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1560;"	d	language:C++
+_GLIBCXX_HAVE_SETENV	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	761;"	d	language:C++
+_GLIBCXX_HAVE_SINCOS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1565;"	d	language:C++
+_GLIBCXX_HAVE_SINCOS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	764;"	d	language:C++
+_GLIBCXX_HAVE_SINCOSF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1570;"	d	language:C++
+_GLIBCXX_HAVE_SINCOSF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	767;"	d	language:C++
+_GLIBCXX_HAVE_SINCOSL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1575;"	d	language:C++
+_GLIBCXX_HAVE_SINCOSL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	770;"	d	language:C++
+_GLIBCXX_HAVE_SINF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1580;"	d	language:C++
+_GLIBCXX_HAVE_SINF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	773;"	d	language:C++
+_GLIBCXX_HAVE_SINHF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1585;"	d	language:C++
+_GLIBCXX_HAVE_SINHF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	776;"	d	language:C++
+_GLIBCXX_HAVE_SINHL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1590;"	d	language:C++
+_GLIBCXX_HAVE_SINHL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	779;"	d	language:C++
+_GLIBCXX_HAVE_SINL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1595;"	d	language:C++
+_GLIBCXX_HAVE_SINL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	782;"	d	language:C++
+_GLIBCXX_HAVE_SQRTF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1600;"	d	language:C++
+_GLIBCXX_HAVE_SQRTF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	785;"	d	language:C++
+_GLIBCXX_HAVE_SQRTL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1605;"	d	language:C++
+_GLIBCXX_HAVE_SQRTL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	788;"	d	language:C++
+_GLIBCXX_HAVE_STDALIGN_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	791;"	d	language:C++
+_GLIBCXX_HAVE_STDBOOL_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	794;"	d	language:C++
+_GLIBCXX_HAVE_STDINT_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	797;"	d	language:C++
+_GLIBCXX_HAVE_STDLIB_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	800;"	d	language:C++
+_GLIBCXX_HAVE_STRERROR_L	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	803;"	d	language:C++
+_GLIBCXX_HAVE_STRERROR_R	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	806;"	d	language:C++
+_GLIBCXX_HAVE_STRINGS_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	809;"	d	language:C++
+_GLIBCXX_HAVE_STRING_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	812;"	d	language:C++
+_GLIBCXX_HAVE_STRTOF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1610;"	d	language:C++
+_GLIBCXX_HAVE_STRTOF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	815;"	d	language:C++
+_GLIBCXX_HAVE_STRTOLD	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1615;"	d	language:C++
+_GLIBCXX_HAVE_STRTOLD	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	818;"	d	language:C++
+_GLIBCXX_HAVE_STRXFRM_L	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	821;"	d	language:C++
+_GLIBCXX_HAVE_SYMVER_SYMBOL_RENAMING_RUNTIME_SUPPORT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	825;"	d	language:C++
+_GLIBCXX_HAVE_SYS_IOCTL_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	831;"	d	language:C++
+_GLIBCXX_HAVE_SYS_IPC_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	834;"	d	language:C++
+_GLIBCXX_HAVE_SYS_PARAM_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	843;"	d	language:C++
+_GLIBCXX_HAVE_SYS_RESOURCE_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	846;"	d	language:C++
+_GLIBCXX_HAVE_SYS_SEM_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	849;"	d	language:C++
+_GLIBCXX_HAVE_SYS_STAT_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	852;"	d	language:C++
+_GLIBCXX_HAVE_SYS_SYSINFO_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	855;"	d	language:C++
+_GLIBCXX_HAVE_SYS_TIME_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	858;"	d	language:C++
+_GLIBCXX_HAVE_SYS_TYPES_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	861;"	d	language:C++
+_GLIBCXX_HAVE_SYS_UIO_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	864;"	d	language:C++
+_GLIBCXX_HAVE_S_ISREG	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	870;"	d	language:C++
+_GLIBCXX_HAVE_TANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1620;"	d	language:C++
+_GLIBCXX_HAVE_TANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	873;"	d	language:C++
+_GLIBCXX_HAVE_TANHF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1625;"	d	language:C++
+_GLIBCXX_HAVE_TANHF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	876;"	d	language:C++
+_GLIBCXX_HAVE_TANHL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1630;"	d	language:C++
+_GLIBCXX_HAVE_TANHL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	879;"	d	language:C++
+_GLIBCXX_HAVE_TANL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1635;"	d	language:C++
+_GLIBCXX_HAVE_TANL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	882;"	d	language:C++
+_GLIBCXX_HAVE_TGMATH_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	885;"	d	language:C++
+_GLIBCXX_HAVE_TLS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	888;"	d	language:C++
+_GLIBCXX_HAVE_UNISTD_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	891;"	d	language:C++
+_GLIBCXX_HAVE_VFWSCANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	894;"	d	language:C++
+_GLIBCXX_HAVE_VSWSCANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	897;"	d	language:C++
+_GLIBCXX_HAVE_VWSCANF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	900;"	d	language:C++
+_GLIBCXX_HAVE_WCHAR_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	903;"	d	language:C++
+_GLIBCXX_HAVE_WCSTOF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	906;"	d	language:C++
+_GLIBCXX_HAVE_WCTYPE_H	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	909;"	d	language:C++
+_GLIBCXX_HAVE_WRITEV	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	912;"	d	language:C++
+_GLIBCXX_HOSTED	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1163;"	d	language:C++
+_GLIBCXX_ICONV_CONST	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1101;"	d	language:C++
+_GLIBCXX_INLINE_VERSION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	183;"	d	language:C++
+_GLIBCXX_LONG_DOUBLE_COMPAT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	330;"	d	language:C++
+_GLIBCXX_NAMESPACE_LDBL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	338;"	d	language:C++
+_GLIBCXX_NOEXCEPT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	104;"	d	language:C++
+_GLIBCXX_NOEXCEPT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	108;"	d	language:C++
+_GLIBCXX_NORETURN	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	52;"	d	language:C++
+_GLIBCXX_NOTHROW	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	115;"	d	language:C++
+_GLIBCXX_NOTHROW	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	58;"	d	language:C++
+_GLIBCXX_NUM_CATEGORIES	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++locale.h	46;"	d	language:C++
+_GLIBCXX_OS_DEFINES	/usr/include/x86_64-linux-gnu/c++/4.7/bits/os_defines.h	32;"	d	language:C++
+_GLIBCXX_PACKAGE_BUGREPORT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1111;"	d	language:C++
+_GLIBCXX_PACKAGE_NAME	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1114;"	d	language:C++
+_GLIBCXX_PACKAGE_STRING	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1117;"	d	language:C++
+_GLIBCXX_PACKAGE_TARNAME	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1120;"	d	language:C++
+_GLIBCXX_PACKAGE_URL	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1123;"	d	language:C++
+_GLIBCXX_PACKAGE__GLIBCXX_VERSION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1126;"	d	language:C++
+_GLIBCXX_PSEUDO_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	422;"	d	language:C++
+_GLIBCXX_PURE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	44;"	d	language:C++
+_GLIBCXX_RES_LIMITS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1171;"	d	language:C++
+_GLIBCXX_STDIO_EOF	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1180;"	d	language:C++
+_GLIBCXX_STDIO_SEEK_CUR	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1183;"	d	language:C++
+_GLIBCXX_STDIO_SEEK_END	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1186;"	d	language:C++
+_GLIBCXX_STD_A	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	297;"	d	language:C++
+_GLIBCXX_STD_A	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	305;"	d	language:C++
+_GLIBCXX_STD_C	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	287;"	d	language:C++
+_GLIBCXX_STD_C	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	309;"	d	language:C++
+_GLIBCXX_SYMVER	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1189;"	d	language:C++
+_GLIBCXX_SYMVER_GNU	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1195;"	d	language:C++
+_GLIBCXX_SYNCHRONIZATION_HAPPENS_AFTER	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	398;"	d	language:C++
+_GLIBCXX_SYNCHRONIZATION_HAPPENS_BEFORE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	395;"	d	language:C++
+_GLIBCXX_THROW	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	106;"	d	language:C++
+_GLIBCXX_THROW	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	110;"	d	language:C++
+_GLIBCXX_UNUSED	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	290;"	d	language:C++
+_GLIBCXX_UNUSED	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	41;"	d	language:C++
+_GLIBCXX_USE_C99	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1205;"	d	language:C++
+_GLIBCXX_USE_C99_COMPLEX	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1210;"	d	language:C++
+_GLIBCXX_USE_C99_COMPLEX_TR1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1215;"	d	language:C++
+_GLIBCXX_USE_C99_CTYPE_TR1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1219;"	d	language:C++
+_GLIBCXX_USE_C99_FENV_TR1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1223;"	d	language:C++
+_GLIBCXX_USE_C99_INTTYPES_TR1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1227;"	d	language:C++
+_GLIBCXX_USE_C99_INTTYPES_WCHAR_T_TR1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1231;"	d	language:C++
+_GLIBCXX_USE_C99_MATH	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1235;"	d	language:C++
+_GLIBCXX_USE_C99_MATH_TR1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1239;"	d	language:C++
+_GLIBCXX_USE_C99_STDINT_TR1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1243;"	d	language:C++
+_GLIBCXX_USE_CLOCK_MONOTONIC	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1246;"	d	language:C++
+_GLIBCXX_USE_CLOCK_REALTIME	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1249;"	d	language:C++
+_GLIBCXX_USE_CONSTEXPR	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	94;"	d	language:C++
+_GLIBCXX_USE_CONSTEXPR	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	97;"	d	language:C++
+_GLIBCXX_USE_DECIMAL_FLOAT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1253;"	d	language:C++
+_GLIBCXX_USE_DEPRECATED	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	79;"	d	language:C++
+_GLIBCXX_USE_FLOAT128	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1256;"	d	language:C++
+_GLIBCXX_USE_GETTIMEOFDAY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1259;"	d	language:C++
+_GLIBCXX_USE_GET_NPROCS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1262;"	d	language:C++
+_GLIBCXX_USE_INT128	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1265;"	d	language:C++
+_GLIBCXX_USE_LFS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1268;"	d	language:C++
+_GLIBCXX_USE_LONG_LONG	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1271;"	d	language:C++
+_GLIBCXX_USE_NANOSLEEP	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1274;"	d	language:C++
+_GLIBCXX_USE_NLS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1277;"	d	language:C++
+_GLIBCXX_USE_NOEXCEPT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	105;"	d	language:C++
+_GLIBCXX_USE_NOEXCEPT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	109;"	d	language:C++
+_GLIBCXX_USE_RANDOM_TR1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1284;"	d	language:C++
+_GLIBCXX_USE_SCHED_YIELD	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1287;"	d	language:C++
+_GLIBCXX_USE_SC_NPROCESSORS_ONLN	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1290;"	d	language:C++
+_GLIBCXX_USE_WCHAR_T	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1299;"	d	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/basic_file.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	68;"	d	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	72;"	d	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++io.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++locale.h	/^namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++locale.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/ctype_base.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/ctype_inline.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/error_constants.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/messages_members.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_VISIBILITY	/usr/include/x86_64-linux-gnu/c++/4.7/bits/time_members.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	f	language:C++
+_GLIBCXX_WEAK_DEFINITION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	429;"	d	language:C++
+_GTHREAD_USE_MUTEX_TIMEDLOCK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1302;"	d	language:C++
+_GTHREAD_USE_MUTEX_TIMEDLOCK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	47;"	d	language:C++
+_GTHREAD_USE_MUTEX_TIMEDLOCK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	49;"	d	language:C++
+_GTHREAD_USE_MUTEX_TIMEDLOCK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	47;"	d	language:C++
+_GTHREAD_USE_MUTEX_TIMEDLOCK	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	49;"	d	language:C++
+_REENTRANT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	38;"	d	language:C++
+_REENTRANT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	38;"	d	language:C++
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^    inline namespace __7 { }$/;"	n	language:C++	namespace:std::tr1
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^    namespace __detail { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::tr1::__detail
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^    namespace placeholders { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::tr1::placeholders
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^    namespace regex_constants { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::tr1::regex_constants
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  inline namespace __7 { }$/;"	n	language:C++	namespace:__gnu_cxx
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  inline namespace __7 { }$/;"	n	language:C++	namespace:std
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace __detail { inline namespace __7 { } }$/;"	n	language:C++	namespace:__gnu_cxx::__detail
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace __detail { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::__detail
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace __regex { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::__regex
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace chrono { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::chrono
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace decimal { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::decimal
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace placeholders { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::placeholders
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace regex_constants { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::regex_constants
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace rel_ops { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::rel_ops
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace this_thread { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::this_thread
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::tr2
+__7	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^ inline namespace __7 { }$/;"	n	language:C++	namespace:std::__cxx1998
+__GLIBCXX__	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	35;"	d	language:C++
+__GTHREADS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	33;"	d	language:C++
+__GTHREADS	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	33;"	d	language:C++
+__GTHREADS_CXX0X	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	34;"	d	language:C++
+__GTHREADS_CXX0X	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	34;"	d	language:C++
+__GTHREAD_COND_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	74;"	d	language:C++
+__GTHREAD_COND_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	87;"	d	language:C++
+__GTHREAD_COND_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	74;"	d	language:C++
+__GTHREAD_COND_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	87;"	d	language:C++
+__GTHREAD_COND_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	88;"	d	language:C++
+__GTHREAD_COND_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	88;"	d	language:C++
+__GTHREAD_HAS_COND	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	63;"	d	language:C++
+__GTHREAD_HAS_COND	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	63;"	d	language:C++
+__GTHREAD_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	65;"	d	language:C++
+__GTHREAD_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	78;"	d	language:C++
+__GTHREAD_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	65;"	d	language:C++
+__GTHREAD_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	78;"	d	language:C++
+__GTHREAD_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	38;"	d	language:C++
+__GTHREAD_MUTEX_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	79;"	d	language:C++
+__GTHREAD_MUTEX_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	79;"	d	language:C++
+__GTHREAD_ONCE_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	66;"	d	language:C++
+__GTHREAD_ONCE_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	66;"	d	language:C++
+__GTHREAD_ONCE_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	37;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	68;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	70;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	82;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	68;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	70;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	82;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	39;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	72;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	83;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	84;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	72;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	83;"	d	language:C++
+__GTHREAD_RECURSIVE_MUTEX_INIT_FUNCTION	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	84;"	d	language:C++
+__GTHREAD_TIME_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	75;"	d	language:C++
+__GTHREAD_TIME_INIT	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	75;"	d	language:C++
+__N	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	447;"	d	language:C++
+__NO_CTYPE	/usr/include/x86_64-linux-gnu/c++/4.7/bits/os_defines.h	38;"	d	language:C++
+__cxa_cdtor_return_type	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	/^  typedef void __cxa_cdtor_return_type;$/;"	t	language:C++
+__cxa_vec_ctor_return_type	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	/^  typedef void __cxa_vec_ctor_return_type;$/;"	t	language:C++
+__cxx1998	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace __cxx1998$/;"	n	language:C++	namespace:std
+__cxxabiv1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	/^namespace __cxxabiv1$/;"	n	language:C++
+__debug	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  inline namespace __debug { }$/;"	n	language:C++	namespace:std
+__detail	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^    namespace __detail { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::tr1
+__detail	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace __detail { inline namespace __7 { } }$/;"	n	language:C++	namespace:__gnu_cxx
+__detail	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace __detail { inline namespace __7 { } }$/;"	n	language:C++	namespace:std
+__glibcxx_assert	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	349;"	d	language:C++
+__glibcxx_base_allocator	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++allocator.h	35;"	d	language:C++
+__gnu_cxx	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^namespace __gnu_cxx$/;"	n	language:C++
+__gnu_cxx_ldbl128	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  inline namespace __gnu_cxx_ldbl128 { }$/;"	n	language:C++	namespace:std
+__gthread_active	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^static volatile int __gthread_active = -1;$/;"	v	language:C++
+__gthread_active	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^static volatile int __gthread_active = -1;$/;"	v	language:C++
+__gthread_active_p	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_active_p (void)$/;"	f	language:C++
+__gthread_active_p	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_active_p (void)$/;"	f	language:C++
+__gthread_active_p	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_active_p (void)$/;"	f	language:C++
+__gthread_cond_broadcast	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_cond_broadcast (__gthread_cond_t *__cond)$/;"	f	language:C++
+__gthread_cond_broadcast	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_cond_broadcast (__gthread_cond_t *__cond)$/;"	f	language:C++
+__gthread_cond_destroy	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_cond_destroy (__gthread_cond_t* __cond)$/;"	f	language:C++
+__gthread_cond_destroy	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_cond_destroy (__gthread_cond_t* __cond)$/;"	f	language:C++
+__gthread_cond_init_function	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_cond_init_function (__gthread_cond_t *__cond)$/;"	f	language:C++
+__gthread_cond_init_function	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_cond_init_function (__gthread_cond_t *__cond)$/;"	f	language:C++
+__gthread_cond_signal	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_cond_signal (__gthread_cond_t *__cond)$/;"	f	language:C++
+__gthread_cond_signal	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_cond_signal (__gthread_cond_t *__cond)$/;"	f	language:C++
+__gthread_cond_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^typedef pthread_cond_t __gthread_cond_t;$/;"	t	language:C++
+__gthread_cond_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^typedef pthread_cond_t __gthread_cond_t;$/;"	t	language:C++
+__gthread_cond_timedwait	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_cond_timedwait (__gthread_cond_t *__cond, __gthread_mutex_t *__mutex,$/;"	f	language:C++
+__gthread_cond_timedwait	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_cond_timedwait (__gthread_cond_t *__cond, __gthread_mutex_t *__mutex,$/;"	f	language:C++
+__gthread_cond_timedwait_recursive	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_cond_timedwait_recursive (__gthread_cond_t *__cond,$/;"	f	language:C++
+__gthread_cond_timedwait_recursive	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_cond_timedwait_recursive (__gthread_cond_t *__cond,$/;"	f	language:C++
+__gthread_cond_wait	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_cond_wait (__gthread_cond_t *__cond, __gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_cond_wait	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_cond_wait (__gthread_cond_t *__cond, __gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_cond_wait_recursive	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_cond_wait_recursive (__gthread_cond_t *__cond,$/;"	f	language:C++
+__gthread_cond_wait_recursive	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_cond_wait_recursive (__gthread_cond_t *__cond,$/;"	f	language:C++
+__gthread_create	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_create (__gthread_t *__threadid, void *(*__func) (void*),$/;"	f	language:C++
+__gthread_create	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_create (__gthread_t *__threadid, void *(*__func) (void*),$/;"	f	language:C++
+__gthread_detach	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_detach (__gthread_t __threadid)$/;"	f	language:C++
+__gthread_detach	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_detach (__gthread_t __threadid)$/;"	f	language:C++
+__gthread_equal	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_equal (__gthread_t __t1, __gthread_t __t2)$/;"	f	language:C++
+__gthread_equal	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_equal (__gthread_t __t1, __gthread_t __t2)$/;"	f	language:C++
+__gthread_getspecific	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_getspecific (__gthread_key_t __key)$/;"	f	language:C++
+__gthread_getspecific	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_getspecific (__gthread_key_t __key)$/;"	f	language:C++
+__gthread_getspecific	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_getspecific (__gthread_key_t __key _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_join	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_join (__gthread_t __threadid, void **__value_ptr)$/;"	f	language:C++
+__gthread_join	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_join (__gthread_t __threadid, void **__value_ptr)$/;"	f	language:C++
+__gthread_key_create	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_key_create (__gthread_key_t *__key, void (*__dtor) (void *))$/;"	f	language:C++
+__gthread_key_create	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_key_create (__gthread_key_t *__key, void (*__dtor) (void *))$/;"	f	language:C++
+__gthread_key_create	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_key_create (__gthread_key_t *__key _GLIBCXX_UNUSED, void (*__func) (void *) _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_key_delete	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_key_delete (__gthread_key_t __key)$/;"	f	language:C++
+__gthread_key_delete	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_key_delete (__gthread_key_t __key)$/;"	f	language:C++
+__gthread_key_delete	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_key_delete (__gthread_key_t __key _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_key_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^typedef pthread_key_t __gthread_key_t;$/;"	t	language:C++
+__gthread_key_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^typedef pthread_key_t __gthread_key_t;$/;"	t	language:C++
+__gthread_key_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^typedef int __gthread_key_t;$/;"	t	language:C++
+__gthread_mutex_destroy	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_mutex_destroy (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_destroy	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_mutex_destroy (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_destroy	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_mutex_destroy (__gthread_mutex_t *__mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_mutex_init_function	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_mutex_init_function (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_init_function	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_mutex_init_function (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_mutex_lock (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_mutex_lock (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_mutex_lock (__gthread_mutex_t *__mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_mutex_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^typedef pthread_mutex_t __gthread_mutex_t;$/;"	t	language:C++
+__gthread_mutex_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^typedef pthread_mutex_t __gthread_mutex_t;$/;"	t	language:C++
+__gthread_mutex_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^typedef int __gthread_mutex_t;$/;"	t	language:C++
+__gthread_mutex_timedlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_mutex_timedlock (__gthread_mutex_t *__mutex,$/;"	f	language:C++
+__gthread_mutex_timedlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_mutex_timedlock (__gthread_mutex_t *__mutex,$/;"	f	language:C++
+__gthread_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_mutex_trylock (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_mutex_trylock (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_mutex_trylock (__gthread_mutex_t *__mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_mutex_unlock (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_mutex_unlock (__gthread_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_mutex_unlock (__gthread_mutex_t *__mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_close_thread_system	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_close_thread_system (void)$/;"	f	language:C++
+__gthread_objc_close_thread_system	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_close_thread_system (void)$/;"	f	language:C++
+__gthread_objc_close_thread_system	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_close_thread_system (void)$/;"	f	language:C++
+__gthread_objc_condition_allocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_condition_allocate (objc_condition_t condition)$/;"	f	language:C++
+__gthread_objc_condition_allocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_condition_allocate (objc_condition_t condition)$/;"	f	language:C++
+__gthread_objc_condition_allocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_condition_allocate (objc_condition_t condition _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_condition_broadcast	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_condition_broadcast (objc_condition_t condition)$/;"	f	language:C++
+__gthread_objc_condition_broadcast	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_condition_broadcast (objc_condition_t condition)$/;"	f	language:C++
+__gthread_objc_condition_broadcast	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_condition_broadcast (objc_condition_t condition _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_condition_deallocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_condition_deallocate (objc_condition_t condition)$/;"	f	language:C++
+__gthread_objc_condition_deallocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_condition_deallocate (objc_condition_t condition)$/;"	f	language:C++
+__gthread_objc_condition_deallocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_condition_deallocate (objc_condition_t condition _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_condition_signal	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_condition_signal (objc_condition_t condition)$/;"	f	language:C++
+__gthread_objc_condition_signal	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_condition_signal (objc_condition_t condition)$/;"	f	language:C++
+__gthread_objc_condition_signal	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_condition_signal (objc_condition_t condition _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_condition_wait	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_condition_wait (objc_condition_t condition, objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_condition_wait	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_condition_wait (objc_condition_t condition, objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_condition_wait	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_condition_wait (objc_condition_t condition _GLIBCXX_UNUSED,$/;"	f	language:C++
+__gthread_objc_init_thread_system	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_init_thread_system (void)$/;"	f	language:C++
+__gthread_objc_init_thread_system	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_init_thread_system (void)$/;"	f	language:C++
+__gthread_objc_init_thread_system	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_init_thread_system (void)$/;"	f	language:C++
+__gthread_objc_mutex_allocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_mutex_allocate (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_allocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_mutex_allocate (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_allocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_mutex_allocate (objc_mutex_t mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_mutex_deallocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_mutex_deallocate (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_deallocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_mutex_deallocate (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_deallocate	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_mutex_deallocate (objc_mutex_t mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_mutex_lock (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_mutex_lock (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_mutex_lock (objc_mutex_t mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_mutex_trylock (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_mutex_trylock (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_mutex_trylock (objc_mutex_t mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_mutex_unlock (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_mutex_unlock (objc_mutex_t mutex)$/;"	f	language:C++
+__gthread_objc_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_mutex_unlock (objc_mutex_t mutex _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_thread_detach	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_thread_detach (void (*func)(void *), void *arg)$/;"	f	language:C++
+__gthread_objc_thread_detach	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_thread_detach (void (*func)(void *), void *arg)$/;"	f	language:C++
+__gthread_objc_thread_detach	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_thread_detach (void (* func)(void *), void * arg _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_thread_exit	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_thread_exit (void)$/;"	f	language:C++
+__gthread_objc_thread_exit	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_thread_exit (void)$/;"	f	language:C++
+__gthread_objc_thread_exit	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_thread_exit (void)$/;"	f	language:C++
+__gthread_objc_thread_get_data	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_thread_get_data (void)$/;"	f	language:C++
+__gthread_objc_thread_get_data	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_thread_get_data (void)$/;"	f	language:C++
+__gthread_objc_thread_get_data	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_thread_get_data (void)$/;"	f	language:C++
+__gthread_objc_thread_get_priority	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_thread_get_priority (void)$/;"	f	language:C++
+__gthread_objc_thread_get_priority	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_thread_get_priority (void)$/;"	f	language:C++
+__gthread_objc_thread_get_priority	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_thread_get_priority (void)$/;"	f	language:C++
+__gthread_objc_thread_id	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_thread_id (void)$/;"	f	language:C++
+__gthread_objc_thread_id	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_thread_id (void)$/;"	f	language:C++
+__gthread_objc_thread_id	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_thread_id (void)$/;"	f	language:C++
+__gthread_objc_thread_set_data	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_thread_set_data (void *value)$/;"	f	language:C++
+__gthread_objc_thread_set_data	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_thread_set_data (void *value)$/;"	f	language:C++
+__gthread_objc_thread_set_data	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_thread_set_data (void *value)$/;"	f	language:C++
+__gthread_objc_thread_set_priority	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_thread_set_priority (int priority)$/;"	f	language:C++
+__gthread_objc_thread_set_priority	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_thread_set_priority (int priority)$/;"	f	language:C++
+__gthread_objc_thread_set_priority	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_thread_set_priority (int priority _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_objc_thread_yield	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_objc_thread_yield (void)$/;"	f	language:C++
+__gthread_objc_thread_yield	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_objc_thread_yield (void)$/;"	f	language:C++
+__gthread_objc_thread_yield	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_objc_thread_yield (void)$/;"	f	language:C++
+__gthread_once	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_once (__gthread_once_t *__once, void (*__func) (void))$/;"	f	language:C++
+__gthread_once	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_once (__gthread_once_t *__once, void (*__func) (void))$/;"	f	language:C++
+__gthread_once	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_once (__gthread_once_t *__once _GLIBCXX_UNUSED, void (*__func) (void) _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_once_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^typedef pthread_once_t __gthread_once_t;$/;"	t	language:C++
+__gthread_once_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^typedef pthread_once_t __gthread_once_t;$/;"	t	language:C++
+__gthread_once_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^typedef int __gthread_once_t;$/;"	t	language:C++
+__gthread_recursive_mutex_init_function	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_recursive_mutex_init_function (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_init_function	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_recursive_mutex_init_function (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_recursive_mutex_lock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_recursive_mutex_lock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_lock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_recursive_mutex_lock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^typedef pthread_mutex_t __gthread_recursive_mutex_t;$/;"	t	language:C++
+__gthread_recursive_mutex_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^typedef pthread_mutex_t __gthread_recursive_mutex_t;$/;"	t	language:C++
+__gthread_recursive_mutex_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^typedef int __gthread_recursive_mutex_t;$/;"	t	language:C++
+__gthread_recursive_mutex_timedlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_recursive_mutex_timedlock (__gthread_recursive_mutex_t *__mutex,$/;"	f	language:C++
+__gthread_recursive_mutex_timedlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_recursive_mutex_timedlock (__gthread_recursive_mutex_t *__mutex,$/;"	f	language:C++
+__gthread_recursive_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_recursive_mutex_trylock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_recursive_mutex_trylock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_trylock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_recursive_mutex_trylock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_recursive_mutex_unlock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_recursive_mutex_unlock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_recursive_mutex_unlock	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_recursive_mutex_unlock (__gthread_recursive_mutex_t *__mutex)$/;"	f	language:C++
+__gthread_self	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_self (void)$/;"	f	language:C++
+__gthread_self	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_self (void)$/;"	f	language:C++
+__gthread_setspecific	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_setspecific (__gthread_key_t __key, const void *__ptr)$/;"	f	language:C++
+__gthread_setspecific	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_setspecific (__gthread_key_t __key, const void *__ptr)$/;"	f	language:C++
+__gthread_setspecific	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^__gthread_setspecific (__gthread_key_t __key _GLIBCXX_UNUSED, const void *__v _GLIBCXX_UNUSED)$/;"	f	language:C++
+__gthread_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^typedef pthread_t __gthread_t;$/;"	t	language:C++
+__gthread_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^typedef pthread_t __gthread_t;$/;"	t	language:C++
+__gthread_time_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^typedef struct timespec __gthread_time_t;$/;"	t	language:C++	typeref:struct:timespec
+__gthread_time_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^typedef struct timespec __gthread_time_t;$/;"	t	language:C++	typeref:struct:timespec
+__gthread_trigger	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_trigger (void)$/;"	f	language:C++
+__gthread_trigger	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_trigger (void)$/;"	f	language:C++
+__gthread_yield	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^__gthread_yield (void)$/;"	f	language:C++
+__gthread_yield	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^__gthread_yield (void)$/;"	f	language:C++
+__gthrw	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	105;"	d	language:C++
+__gthrw	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	105;"	d	language:C++
+__gthrw2	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	100;"	d	language:C++
+__gthrw2	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	95;"	d	language:C++
+__gthrw2	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	100;"	d	language:C++
+__gthrw2	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	95;"	d	language:C++
+__gthrw3	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	111;"	d	language:C++
+__gthrw3	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	111;"	d	language:C++
+__gthrw_	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	101;"	d	language:C++
+__gthrw_	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	98;"	d	language:C++
+__gthrw_	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	101;"	d	language:C++
+__gthrw_	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	98;"	d	language:C++
+__gthrw_pragma	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	93;"	d	language:C++
+__gthrw_pragma	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	93;"	d	language:C++
+__guard	/usr/include/x86_64-linux-gnu/c++/4.7/bits/cxxabi_tweaks.h	/^  __extension__ typedef int __guard __attribute__((mode (__DI__)));$/;"	t	language:C++
+__parallel	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  inline namespace __parallel { }$/;"	n	language:C++	namespace:std
+__profile	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  inline namespace __profile { }$/;"	n	language:C++	namespace:std
+__regex	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace __regex { inline namespace __7 { } }$/;"	n	language:C++	namespace:std
+_objc_thread_attribs	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^static pthread_attr_t _objc_thread_attribs;$/;"	v	language:C++
+_objc_thread_attribs	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^static pthread_attr_t _objc_thread_attribs;$/;"	v	language:C++
+_objc_thread_storage	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^static pthread_key_t _objc_thread_storage;$/;"	v	language:C++
+_objc_thread_storage	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^static pthread_key_t _objc_thread_storage;$/;"	v	language:C++
+acosf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1321;"	d	language:C++
+acosl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1326;"	d	language:C++
+asinf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1331;"	d	language:C++
+asinl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1336;"	d	language:C++
+atan2f	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1341;"	d	language:C++
+atan2l	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1346;"	d	language:C++
+atanf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1351;"	d	language:C++
+atanl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1356;"	d	language:C++
+ceilf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1361;"	d	language:C++
+ceill	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1366;"	d	language:C++
+chrono	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace chrono { inline namespace __7 { } }$/;"	n	language:C++	namespace:std
+cosf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1371;"	d	language:C++
+coshf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1376;"	d	language:C++
+coshl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1381;"	d	language:C++
+cosl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1386;"	d	language:C++
+decimal	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace decimal { inline namespace __7 { } }$/;"	n	language:C++	namespace:std
+expf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1391;"	d	language:C++
+expl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1396;"	d	language:C++
+fabsf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1401;"	d	language:C++
+fabsl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1406;"	d	language:C++
+finite	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1411;"	d	language:C++
+finitef	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1416;"	d	language:C++
+finitel	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1421;"	d	language:C++
+floorf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1426;"	d	language:C++
+floorl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1431;"	d	language:C++
+fmodf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1436;"	d	language:C++
+fmodl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1441;"	d	language:C++
+fpclass	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1446;"	d	language:C++
+frexpf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1451;"	d	language:C++
+frexpl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1456;"	d	language:C++
+hypot	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1461;"	d	language:C++
+hypotf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1466;"	d	language:C++
+hypotl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1471;"	d	language:C++
+isinf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1476;"	d	language:C++
+isinff	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1481;"	d	language:C++
+isinfl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1486;"	d	language:C++
+isnan	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1491;"	d	language:C++
+isnanf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1496;"	d	language:C++
+isnanl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1501;"	d	language:C++
+ldexpf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1506;"	d	language:C++
+ldexpl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1511;"	d	language:C++
+log10f	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1516;"	d	language:C++
+log10l	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1521;"	d	language:C++
+logf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1526;"	d	language:C++
+logl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1531;"	d	language:C++
+max	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	451;"	d	language:C++
+min	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	450;"	d	language:C++
+modf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1536;"	d	language:C++
+modff	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1541;"	d	language:C++
+modfl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1546;"	d	language:C++
+nullptr_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  typedef decltype(nullptr)	nullptr_t;$/;"	t	language:C++	namespace:std
+placeholders	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^    namespace placeholders { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::tr1
+placeholders	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace placeholders { inline namespace __7 { } }$/;"	n	language:C++	namespace:std
+powf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1551;"	d	language:C++
+powl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1556;"	d	language:C++
+ptrdiff_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  typedef __PTRDIFF_TYPE__	ptrdiff_t;$/;"	t	language:C++	namespace:std
+qfpclass	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1561;"	d	language:C++
+regex_constants	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^    namespace regex_constants { inline namespace __7 { } }$/;"	n	language:C++	namespace:std::tr1
+regex_constants	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace regex_constants { inline namespace __7 { } }$/;"	n	language:C++	namespace:std
+rel_ops	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace rel_ops { inline namespace __7 { } }$/;"	n	language:C++	namespace:std
+sincos	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1566;"	d	language:C++
+sincosf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1571;"	d	language:C++
+sincosl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1576;"	d	language:C++
+sinf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1581;"	d	language:C++
+sinhf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1586;"	d	language:C++
+sinhl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1591;"	d	language:C++
+sinl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1596;"	d	language:C++
+size_t	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  typedef __SIZE_TYPE__ 	size_t;$/;"	t	language:C++	namespace:std
+sqrtf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1601;"	d	language:C++
+sqrtl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1606;"	d	language:C++
+std	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^namespace std$/;"	n	language:C++
+strtof	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1611;"	d	language:C++
+strtold	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1616;"	d	language:C++
+tanf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1621;"	d	language:C++
+tanhf	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1626;"	d	language:C++
+tanhl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1631;"	d	language:C++
+tanl	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	1636;"	d	language:C++
+this_thread	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace this_thread { inline namespace __7 { } }$/;"	n	language:C++	namespace:std
+thread_local_storage	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-default.h	/^static void *thread_local_storage = NULL;$/;"	v	language:C++
+thread_local_storage	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-posix.h	/^static void *thread_local_storage = NULL;$/;"	v	language:C++
+thread_local_storage	/usr/include/x86_64-linux-gnu/c++/4.7/bits/gthr-single.h	/^static void *thread_local_storage = NULL;$/;"	v	language:C++
+tr1	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace tr1$/;"	n	language:C++	namespace:std
+tr2	/usr/include/x86_64-linux-gnu/c++/4.7/bits/c++config.h	/^  namespace tr2$/;"	n	language:C++	namespace:std
