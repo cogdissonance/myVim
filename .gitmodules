@@ -49,3 +49,9 @@
 [submodule "bundle/TagHighlight"]
 	path = bundle/TagHighlight
 	url = git://github.com/vim-scripts/TagHighlight.git
+[submodule "bundle/vim-bufferline"]
+	path = bundle/vim-bufferline
+	url = git://github.com/bling/vim-bufferline.git
+[submodule "bundle/easybuffer"]
+	path = bundle/easybuffer
+	url = git://github.com/troydm/easybuffer.vim.git
